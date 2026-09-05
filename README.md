@@ -21,17 +21,19 @@ Each project contains implementation evidence, architecture diagrams, configurat
 
 ## Projects
 
-| ## |   Project                     |     Status     |
--------------------------------------------------------
-| 01 | Build a Virtual Private Cloud | 🔄 In Progress |
-| 02 | VPC Traffic Flow and Security | ⬜ Not Started |
-| 03 | Creating a Private Subnet     | ⬜ Not Started |
-| 04 | Launching VPC Resources       | ⬜ Not Started |
-| 05 | Testing VPC Connectivity      | ⬜ Not Started |
-| 06 | VPC Peering                   | ⬜ Not Started |
-| 07 | VPC Monitoring with Flow Logs | ⬜ Not Started |
-| 08 | Access S3 from a VPC          | ⬜ Not Started |
-| 09 | VPC Endpoints                 | ⬜ Not Started |
+## Projects
+
+| #  | Project                       | Status      |
+| -- | ----------------------------- | ----------- |
+| 01 | Build a Virtual Private Cloud | ✅ Completed |
+| 02 | VPC Traffic Flow and Security | ✅ Completed |
+| 03 | Creating a Private Subnet     | ✅ Completed |
+| 04 | Launching VPC Resources       | ✅ Completed |
+| 05 | Testing VPC Connectivity      | ✅ Completed |
+| 06 | VPC Peering                   | ✅ Completed |
+| 07 | VPC Monitoring with Flow Logs | ✅ Completed |
+| 08 | Access S3 from a VPC          | ⬜ Upcoming  |
+| 09 | VPC Endpoints                 | ⬜ Upcoming  |
 
 ## AWS Services
 
@@ -148,6 +150,6 @@ GitHub: **[Tarandeep07](https://github.com/Tarandeep07)**
 
 ## Project Status
 
-**In Progress — 5 of 9 Projects Completed**
+**In Progress — 7 of 9 Projects Completed**
 
 This repository will continue to evolve as additional AWS networking projects are completed, documented, and added.
